@@ -1,0 +1,5 @@
+﻿  Project1MagicBag.cpp
+c:\users\corbin mcguire\source\repos\project1_magicbag\project1_magicbag\magicbag.h(193): warning C4715: 'operator<<': not all control paths return a value
+c:\users\corbin mcguire\source\repos\project1_magicbag\project1_magicbag\magicbag.h(141): warning C4715: 'MagicBag<int>::draw': not all control paths return a value
+  Project1_MagicBag.vcxproj -> C:\Users\Corbin McGuire\source\repos\Project1_MagicBag\Debug\Project1_MagicBag.exe
+  Project1_MagicBag.vcxproj -> C:\Users\Corbin McGuire\source\repos\Project1_MagicBag\Debug\Project1_MagicBag.pdb (Partial PDB)
